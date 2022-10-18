@@ -1,0 +1,49 @@
+h1 {
+    color: rgb(255, 255, 255);
+    font-family: "Verdana";
+    
+  }
+
+p{
+    color: rgb(255, 255, 255);
+    text-align: left;
+    font-family: "Verdana";
+    display: inline-block
+    
+}
+h2 {
+    color: rgb(255, 255, 255);
+    font-family: "Lucida Console";
+    border-style: solid;
+    
+  }
+h3 {
+    color: rgb(255, 255, 255);
+    font-family: "Lucida Console";
+    border-style: solid;
+    border-color: black, blue, yellow, red;
+}
+#encabezado{
+    color:rgb(255, 255, 255);
+    border-color: rgb(178, 23, 23);
+    border-style: solid;
+    
+}
+
+ul{
+    color: rgb(255, 255, 255);
+    display: inline-block
+   
+}
+
+form{
+    color: rgb(255, 255, 255);
+   
+}
+
+body{
+    border: 15px darkred;
+    margin: 20px;
+    background-color: rgba(0, 12, 22, 0.96);
+}
+
